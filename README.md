@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rabia Usl
+# 👋 Hi, I'm Rabia Usul
 
 🎓 **Computer Engineering Student**  
 💻 Passionate about **Java, Python & Software Projects**  

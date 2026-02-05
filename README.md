@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Rabia Usul
 
 🎓 **Computer Engineering Student**  
-💻 Passionate about **Java, Python & Software Projects**  
+💻 Passionate about **Java, Python & Software Projects, AI with LLMs, Machine Learning, Deep Learning and Computer Vision**  
 🔍 Continuously improving my skills through real-world coding  
-📚 Focused on backend, algorithms, and practical applications
+📚 Focused on artifical intelligence, backend, algorithms, and practical applications
 
 ---
 

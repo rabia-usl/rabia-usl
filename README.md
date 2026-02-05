@@ -46,6 +46,7 @@ Python project addressing security zone detection logic.
 ## 🚀 What I’m Learning
 
 I’m actively working on:
+
 ✨ Artificial Intelligence, working with real data
 ✨ End to end projects with pyhton and jupyter notebook
 ✨ Better algorithms, clean code practices  

@@ -9,9 +9,10 @@
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Java, Python  
-- **Tools:** Git & GitHub  
-- **Interests:** Algorithms, Object Detection, Software Design
+- **Languages:** Java, Python, Kotlin, C, C++, C#, Figma  
+- **Tools:** Git & GitHub, VS Code, Intellij Idea, VS
+- **Frameworks-Libraries:** Scikit-Learn, NumPy, Pandas, Maven, Yolo 
+- **Interests:** Machine Learning Algorithms, Data Analytics, Computer Vision, Image Processing, Software Design
 
 ---
 
@@ -26,13 +27,11 @@ Java project using Maven — hands-on with build tools and dependency management
 
 ### 🔹 Gun-Detection  
 Python-based object detection project.  
-*Shows real application of ML or CV techniques.*
 
 ### 🔹 Restricted-Zone-Instrusion  
 Python project addressing security zone detection logic.  
 *Practical problem solving with code.*
 
-> (Repos are organized to demonstrate a blend of Java and Python experience.) :contentReference[oaicite:1]{index=1}
 
 ---
 
@@ -46,7 +45,8 @@ Python project addressing security zone detection logic.
 
 ## 🚀 What I’m Learning
 
-I’m actively working on:  
+I’m actively working on:
+✨ Artificial Intelligence, working with real data
+✨ End to end projects with pyhton and jupyter notebook
 ✨ Better algorithms, clean code practices  
 ✨ Real-world Python & Java solutions  
-✨ Projects that can go in my portfolio or CV
